@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Verificar el correcto registro y uso de los beneficiarios ACH
+
+Datos de entrada
+Cuentas de terceros de BancoSol
+a. Sólo Numeros
+b. Cuenta con guines entre medio
+c. registradas dos veces</description>
+   <name>Registro_ACH</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5d5257c0-5856-4226-977a-8b7f8686b151</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Registro_ACH.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Cuentas exitosas</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

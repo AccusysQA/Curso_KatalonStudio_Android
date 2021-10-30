@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar que los pagos se completen exitosamente para ambas monedas de una cuenta de caja de ahorro</description>
+   <name>Pago_Nuevatel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>297af3c5-0039-427a-b77b-42f5e5fe3362</testCaseGuid>
+</TestCaseEntity>

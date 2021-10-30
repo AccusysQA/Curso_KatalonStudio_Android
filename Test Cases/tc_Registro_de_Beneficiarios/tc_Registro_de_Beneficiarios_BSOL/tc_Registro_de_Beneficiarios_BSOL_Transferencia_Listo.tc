@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar el correcto registro y uso de los beneficiarios BSOL</description>
+   <name>tc_Registro_de_Beneficiarios_BSOL_Transferencia_Listo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a78271f-1e64-42f3-a2eb-b80767b1d95b</testCaseGuid>
+</TestCaseEntity>

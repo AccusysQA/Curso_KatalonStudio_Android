@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar los casos de Transferencias Entre cuentas y a Terceros del BancoSol</description>
+   <name>tc_Transferencias_ACH_Inactiva_Listo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de25ba8e-d8e4-4c47-85a4-b752359fd2ae</testCaseGuid>
+</TestCaseEntity>

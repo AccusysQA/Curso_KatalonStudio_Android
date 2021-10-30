@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar que los mensajes de error se presenten correctamente
+
+1. Seleccionar Cobro con QR
+2. Realizar las acciones de entrada
+
+Form:
+a. Vacío
+b. Form lleno con Importe: 1e999999
+c. Form sin seleccionar la moneda</description>
+   <name>tc_Cobro_QR_Fallido_Listo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1734f3e-1c22-419f-941d-499833dc4db1</testCaseGuid>
+</TestCaseEntity>

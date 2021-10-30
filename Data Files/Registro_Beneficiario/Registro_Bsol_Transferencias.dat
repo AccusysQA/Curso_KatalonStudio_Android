@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Se debe poder hacer una transferencia a la cuenta creada</description>
+   <name>Registro_Bsol_Transferencias</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>02724251-f4cf-4ac8-8dc4-4ec03b0f24ed</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Registro_Bsol_Transferencias.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Todas</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Registro de cuentas Inactivas Banco Solidario</description>
+   <name>Registro_Bsol_Inactivas</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ed52a8a6-5d84-42b6-a358-3ff112ff9c90</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Registro_BSOL_I.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

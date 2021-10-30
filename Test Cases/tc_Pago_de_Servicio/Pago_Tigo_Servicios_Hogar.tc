@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar que los pagos se completen exitosamente para ambas monedas de una cuenta de caja de ahorro</description>
+   <name>Pago_Tigo_Servicios_Hogar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed6cd15a-ad49-4c27-bd8c-ead976b6f702</testCaseGuid>
+</TestCaseEntity>

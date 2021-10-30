@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar el envío de Giros nacionales</description>
+   <name>tc_Giros Nacionales_Extranjeros</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f13eb3f-1029-48d5-aeb7-db5305d197bf</testCaseGuid>
+</TestCaseEntity>

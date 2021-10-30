@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Validar el envío de Giros nacionales
+1. Ir a giros nacionales
+2. Llenar el formualrio co datos random permitidos
+para los importes de los datos de entrada</description>
+   <name>Giros_Nacional</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f95497e1-6329-4530-a2d7-ef23c6685844</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Giros_Nacionales_Nacional.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

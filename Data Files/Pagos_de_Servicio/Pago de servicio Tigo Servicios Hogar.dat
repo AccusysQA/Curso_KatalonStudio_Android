@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Verificar que los pagos se completen exitosamente para ambas monedas de una cuenta de caja de ahorro
+
+1. Ir a pago de servicios
+2. Seleccionar Telecomunicación
+3. Seleccionar Tigo Servicios Hogar
+4. Seleccionar Post pago 
+5. ingresar los datos y confirmar 
+6. Guardar el comprobante</description>
+   <name>Pago de servicio Tigo Servicios Hogar</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2ee1ac3c-62e9-4337-ab11-3c143df82ff1</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Pago de servicio Tigo Servicios Hogar.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

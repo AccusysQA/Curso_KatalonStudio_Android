@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar el correcto registro y uso de los beneficiarios BSOL</description>
+   <name>tc_Registro_de_Beneficiarios_BSOL_Listo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edf1ee17-f270-40be-a000-657fa6e7992a</testCaseGuid>
+</TestCaseEntity>

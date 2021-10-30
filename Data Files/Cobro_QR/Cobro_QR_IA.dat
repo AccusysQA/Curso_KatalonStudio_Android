@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Verificar que se generen correctamete lo QR
+1. Seleccionar Cobro con QR
+2. Realizar las acciones de entrada
+
+Para cualquier importe:
+Llenar la Información Adicional
+I. Aceptar un pago: ok
+ Fecha de venc: 
+   a. actual
+   b. vacío
+   c. día posterior
+II. Aceptar un pago: no
+   a. última fecha disponible</description>
+   <name>Cobro_QR_IA</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0a24085a-75d4-42e8-89ee-cde011e99711</dataFileGUID>
+   <dataSourceUrl>C:\Users\MGIAccusys\Katalon Studio\Cobro_QR_IA.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja2</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

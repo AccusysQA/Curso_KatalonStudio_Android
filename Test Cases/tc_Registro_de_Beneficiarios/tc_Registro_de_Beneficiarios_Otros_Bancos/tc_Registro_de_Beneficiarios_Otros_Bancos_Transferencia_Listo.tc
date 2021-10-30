@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar el correcto registro y uso de los beneficiarios BSOL</description>
+   <name>tc_Registro_de_Beneficiarios_Otros_Bancos_Transferencia_Listo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa26f4fb-6211-4ba2-a8be-8987918c052f</testCaseGuid>
+</TestCaseEntity>

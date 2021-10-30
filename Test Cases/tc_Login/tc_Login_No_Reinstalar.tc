@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ejecuta login sin reintalar la apk</description>
+   <name>tc_Login_No_Reinstalar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea7f42ad-acc1-4938-9a30-b390b00fa0ec</testCaseGuid>
+</TestCaseEntity>

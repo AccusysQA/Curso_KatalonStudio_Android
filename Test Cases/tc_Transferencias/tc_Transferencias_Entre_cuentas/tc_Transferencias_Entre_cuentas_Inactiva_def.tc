@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_Transferencias_Entre_cuentas_Inactiva_def</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>454370f2-f6b7-48b7-a81d-f027e7ecafc5</testCaseGuid>
+</TestCaseEntity>

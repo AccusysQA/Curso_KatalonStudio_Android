@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login
+Olvidé mi contraseña</description>
+   <name>tc_Olvide_contrasena</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1be2c919-bdfd-435e-900a-bbfe55e614b8</testCaseGuid>
+</TestCaseEntity>
